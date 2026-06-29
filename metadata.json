@@ -1,0 +1,6 @@
+{
+  "name": "Vendor Trust Checker",
+  "description": "Evaluate the trustworthiness of social media vendors using behavioral indicators, followers, engagement, and red flags.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
